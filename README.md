@@ -1,2 +1,2 @@
 # FaceRecognitionAttendanceProject
-A project which utilizes Face Recognition to accurately detect specific people then records their attendance in an CSV
+A Face Recognition and Attendance Tracker made in Python using OpenCV and 'face_recognition' library
